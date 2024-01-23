@@ -52,6 +52,7 @@ p{
     width: 30%;
     padding-top: 10px;
     margin: auto;
+    object-fit:contain;
 }
 
 button{
