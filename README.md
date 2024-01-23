@@ -1,5 +1,3 @@
-![mobile](https://github.com/Benalisafa/social-links/assets/96633390/b87bae8b-1cb7-41e6-8ee2-21dbbdc80203)# Frontend Mentor - Social links profile solution
-
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 
