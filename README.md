@@ -1,6 +1,8 @@
-# Frontend Mentor - Social links profile solution
+![mobile](https://github.com/Benalisafa/social-links/assets/96633390/b87bae8b-1cb7-41e6-8ee2-21dbbdc80203)# Frontend Mentor - Social links profile solution
 
 This is a solution to the [Social links profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-links-profile-UG32l9m6dQ). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+
+
 
 ## Table of contents
 
@@ -25,6 +27,11 @@ Users should be able to:
 ### Design
 
 Design folder is the one provided by Frontend Mentor team. My solution is the close enough to the Design for both Desktop and Mobile size.
+
+### My Solution
+![mobile](https://github.com/Benalisafa/social-links/assets/96633390/3042293c-3231-41e2-9f3d-8bf23cbb79a6)
+![Desktop](https://github.com/Benalisafa/social-links/assets/96633390/1a75e01d-2d58-4055-8701-32d5b2a06297)
+
 
 ### Links
 
