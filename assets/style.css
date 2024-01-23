@@ -67,7 +67,7 @@ button{
     cursor: pointer;
     text-decoration: none;
     border: none;
-   width: 80%;
+    width: 100%;
    font-family: "Inter";
    font-weight: 600;
 }
