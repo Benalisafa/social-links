@@ -1,0 +1,82 @@
+
+
+body{
+    background-color:  hsl(0, 0%, 8%);
+    font-family: "Inter";
+    text-align: center;
+    height:100vh;
+    display:flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center; 
+       
+}
+
+
+.card{
+    background-color: hsl(0, 0%, 12%);
+
+    border-radius: 10px;
+    display:flex;
+    flex-direction: column;
+    text-align: center;
+    padding: 20px 50px 20px 50px;
+      
+    
+}
+
+h1{
+    color: hsl(0, 0%, 100%);
+    font-size: 18px;
+    
+}
+
+h2{
+   
+    color: hsl(75, 94%, 57%);
+    font-size: 12px;
+  
+    
+}
+
+p{
+    padding-top: 10px;
+    color:hsl(0, 0%, 100%);
+    font-size: 12px;
+    padding-bottom: 10px;
+    
+}
+
+.image{
+    border-radius: 100%;
+    width: 30%;
+    padding-top: 10px;
+    margin: auto;
+}
+
+button{
+    list-style-type: none;
+    color: hsl(0, 0%, 100%);
+    background-color: hsl(0, 0%, 20%);
+    border-radius: 10px;
+    margin-bottom: 10px;
+    font-size: 12px;
+    padding: 10px;
+    text-align: center;
+    transition-duration: 0.4s;
+    cursor: pointer;
+    text-decoration: none;
+    border: none;
+   width: 80%;
+   font-family: "Inter";
+   font-weight: 600;
+}
+
+button:hover {
+    background-color:hsl(75, 94%, 57%);
+    color: hsl(0, 0%, 12%); 
+    
+}
+
+
+
